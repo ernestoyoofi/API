@@ -1,0 +1,67 @@
+{
+  "post_now" : [
+    {
+      "image" : "IMG_EI21Lp21qs_05-03-2022.jpg",
+      "image_original" : "Ernesto Yoofi",
+      "hastag" : "",
+      "location" : "Bee Dyoti Hidden Cafe",
+      "google_map" : "https://www.google.com/maps/place/Bee+Dyoti+Hidden+Cafe/@-7.8598949,110.322423,13.51z/data=!4m5!3m4!1s0x2e7af9cf031862ef:0x4d9ecb8e08202b5f!8m2!3d-7.8525528!4d110.3105694",
+      "des" : ""
+    },
+    {
+      "image" : "IMG_EI21Lp21qt_16-02-2022.jpg",
+      "image_original" : "Ernesto Yoofi",
+      "hastag" : "",
+      "location" : "Bukit Paralayang, Watu Gupit",
+      "google_map" : "https://www.google.com/maps/place/Bukit+Paralayang,+Watugupit/@-8.027694,110.3446981,17.09z/data=!4m5!3m4!1s0x2e7baa1254b588c1:0xd78b48bf093653cc!8m2!3d-8.0268551!4d110.3459122",
+      "des" : ""
+    }, 
+    {
+      "image" : "IMG_EI21Lp21qr_16-02-2022.jpg",
+      "image_original" : "Ernesto Yoofi",
+      "hastag" : "",
+      "location" : "Bukit Paralayang, Watu Gupit",
+      "google_map" : "https://www.google.com/maps/place/Bukit+Paralayang,+Watugupit/@-8.027694,110.3446981,17.09z/data=!4m5!3m4!1s0x2e7baa1254b588c1:0xd78b48bf093653cc!8m2!3d-8.0268551!4d110.3459122",
+      "des" : ""
+    }
+  ],
+  "post" : [
+    {
+      "image" : "IMG_EI21Lp21qs_05-03-2022.jpg",
+      "image_original" : "Ernesto Yoofi",
+      "hastag" : "",
+      "location" : "Bee Dyoti Hidden Cafe",
+      "google_map" : "https://www.google.com/maps/place/Bee+Dyoti+Hidden+Cafe/@-7.8598949,110.322423,13.51z/data=!4m5!3m4!1s0x2e7af9cf031862ef:0x4d9ecb8e08202b5f!8m2!3d-7.8525528!4d110.3105694",
+      "des" : ""
+    },
+    {
+      "image" : "IMG_EI21Lp21qt_16-02-2022.jpg",
+      "image_original" : "Ernesto Yoofi",
+      "hastag" : "",
+      "location" : "Bukit Paralayang, Watu Gupit",
+      "google_map" : "https://www.google.com/maps/place/Bukit+Paralayang,+Watugupit/@-8.027694,110.3446981,17.09z/data=!4m5!3m4!1s0x2e7baa1254b588c1:0xd78b48bf093653cc!8m2!3d-8.0268551!4d110.3459122",
+      "des" : ""
+    }, 
+    {
+      "image" : "IMG_EI21Lp21qr_16-02-2022.jpg",
+      "image_original" : "Ernesto Yoofi",
+      "hastag" : "",
+      "location" : "Bukit Paralayang, Watu Gupit",
+      "google_map" : "https://www.google.com/maps/place/Bukit+Paralayang,+Watugupit/@-8.027694,110.3446981,17.09z/data=!4m5!3m4!1s0x2e7baa1254b588c1:0xd78b48bf093653cc!8m2!3d-8.0268551!4d110.3459122",
+      "des" : ""
+    },
+    {
+      "image" : "IMG_EI21Lp21qu_00-05-2021.jpg",
+      "image_original" : "Ernesto Yoofi",
+      "hastag" : [
+        "nanggulan",
+        "Terraloka",
+        "ernestoyoofi",
+        "berlabuhditerraloka"
+      ],
+      "location" : "Terraloka, Jl. Raya Kaligesing, Krikil, Pendoworejo, Girimulyo, Kabupaten Kulon Progo",
+      "google_map" : "https://www.google.com/maps/place/Terraloka/@-7.7487035,110.1884187,14.86z/data=!4m5!3m4!1s0x2e7af1aee2ee1881:0xf16b2326bc8738e3!8m2!3d-7.7498848!4d110.1923219",
+      "des" : ""
+    }
+  ]
+}
